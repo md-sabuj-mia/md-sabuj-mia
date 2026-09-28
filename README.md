@@ -32,13 +32,6 @@
 
 
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/top-langs/?username=md-sabuj-mia&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-sabuj-mia" alt="GitHub Streak" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=md-sabuj-mia&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
