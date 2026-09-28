@@ -38,3 +38,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-sabuj-mia" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=md-sabuj-mia&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=md-sabuj-mia&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-sabuj-mia&theme=radical" alt="GitHub Streak" />
+</p>
