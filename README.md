@@ -52,6 +52,14 @@ A passionate Full-Stack Developer from Bangladesh.
 </p>
 
 ---
+# Software Skill:
+<p align="left">
+  <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=MathWorks&logoColor=white" alt="MATLAB" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/COMSOL_Multiphysics-005596?style=for-the-badge&logo=comsol&logoColor=white" alt="COMSOL Multiphysics" style="margin: 5px;" />
+</p>
+
+---
+
 
 # 📊 GitHub Stats:
 <p align="center">
