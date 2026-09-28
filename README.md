@@ -1,10 +1,11 @@
 
 <p align="center">
  <img width="1024" height="410" alt="finalbanner image" src="https://github.com/user-attachments/assets/ad41c909-50b8-4adc-9722-5d133518bab1" width="100%" />
+</p>
+<h1 align="center">
  # Hi 👋, I'm Md Sabuj Mia
 ### A passionate Full-Stack Developer from Bangladesh
-</p>
-
+</h1>
 ---
 
 - 🌱 I'm currently expanding my skills in **Web Security, Authentication & Backend Architecture**.
