@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Md Sabuj Mia</h1>
 <h3 align="center">A passionate fullstack developer from Bangladesh.</h3>
 
-- 🌱 I’m currently learning **Authentication in Programming Hero**
+- **🌱 I'm currently expanding my skills in Web Security, Authentication & Backend Architecture.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/md-sabuj-mia?tab=repositories](https://github.com/md-sabuj-mia?tab=repositories)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **imdsabujmia123@gmail.com**
 
-- ⚡ Fun fact **I think I am an active person in my every job.**
+- ⚡ Fun fact **I love solving complex UI problems and experimenting with modern web technologies.**
 
 
 <h3 align="left">Connect with me:</h3>
