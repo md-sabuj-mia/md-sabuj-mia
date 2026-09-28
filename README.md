@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/md-sabuj-mia/md-sabuj-mia/main/finalbanner.png" alt="Banner" width="100%" />
+ <img width="1024" height="410" alt="finalbanner image" src="https://github.com/user-attachments/assets/ad41c909-50b8-4adc-9722-5d133518bab1" /> width="100%" />
 </p>
 
 # Hi 👋, I'm Md Sabuj Mia
