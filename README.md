@@ -2,9 +2,9 @@
 <p align="center">
  <img width="1024" height="410" alt="finalbanner image" src="https://github.com/user-attachments/assets/ad41c909-50b8-4adc-9722-5d133518bab1" width="100%" />
 </p>
-<p align="center">
- # Hi 👋, I'm Md Sabuj Mia
-</p>
+<h1 align="center">
+ Hi 👋, I'm Md Sabuj Mia
+</h1>
 ### A passionate Full-Stack Developer from Bangladesh
 
 ---
