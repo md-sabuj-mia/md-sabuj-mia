@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="[YOUR_IMAGE_URL_HERE](https://imgur.com/a/GLOsp0X)" alt="Header Banner" width="100%" />
+  <img src="finalbanner image.jpg" alt="Header Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Sabuj Mia</h1>
