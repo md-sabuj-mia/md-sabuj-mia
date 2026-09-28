@@ -1,6 +1,7 @@
 
+
 <p align="center">
-  <img src="finalbanner image.jpg" alt="Header Banner" width="100%" />
+<img width="1024" height="410" alt="finalbanner image" src="https://github.com/user-attachments/assets/ca68bb20-fe9e-4cdf-a70f-1c9a11f2eb9c" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Sabuj Mia</h1>
