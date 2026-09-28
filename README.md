@@ -56,6 +56,13 @@ A passionate Full-Stack Developer from Bangladesh.
 <p align="left">
   <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=MathWorks&logoColor=white" alt="MATLAB" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/COMSOL_Multiphysics-005596?style=for-the-badge&logo=comsol&logoColor=white" alt="COMSOL Multiphysics" style="margin: 5px;" />
+ <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=MathWorks&logoColor=white" alt="MATLAB" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/COMSOL_Multiphysics-005596?style=for-the-badge&logo=comsol&logoColor=white" alt="COMSOL Multiphysics" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/ANSYS-FFB800?style=for-the-badge&logo=ansys&logoColor=black" alt="ANSYS" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/PowerWorld-003366?style=for-the-badge&logo=powers&logoColor=white" alt="PowerWorld" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/PLC_Simulation-006400?style=for-the-badge&logo=siemens&logoColor=white" alt="PLC Simulation" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Proteus_Design-00599C?style=for-the-badge&logo=electronics&logoColor=white" alt="Proteus" style="margin: 5px;" />
 </p>
 
 ---
