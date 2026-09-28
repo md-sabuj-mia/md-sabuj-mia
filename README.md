@@ -18,7 +18,8 @@ A passionate Full-Stack Developer from Bangladesh.
 - 1.[my-devstac-app](https://brilliant-clafoutis-922ecb.netlify.app/)
 - 2.[fitlog](https://fitlog-red-two.vercel.app/)
 - 3.[My GitHub Repositories](https://github.com/md-sabuj-mia?tab=repositories)
-- ### 💬 Ask me about **React, Next.js, TypeScript, Node.js, Express & MongoDB**
+- ### 💬 Ask me about :
+- Html,Css,Tailwind,TypeScript, React, Next.js
 - 📫 How to reach me: **imdsabujmia123@gmail.com**
 - ⚡ Fun fact: **I love solving complex UI problems and experimenting with modern web technologies.**
 
