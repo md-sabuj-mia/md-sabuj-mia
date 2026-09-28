@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="[YOUR_IMAGE_URL_HERE](https://imgur.com/a/GLOsp0X)" alt="Header Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Md Sabuj Mia</h1>
 <h3 align="center">A passionate fullstack developer from Bangladesh.</h3>
 
