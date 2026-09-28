@@ -5,7 +5,10 @@
 <h1 align="center">
  Hi 👋, I'm Md Sabuj Mia
 </h1>
-### A passionate Full-Stack Developer from Bangladesh
+<h3 align="center">
+A passionate Full-Stack Developer from Bangladesh
+</h3>
+
 
 ---
 
