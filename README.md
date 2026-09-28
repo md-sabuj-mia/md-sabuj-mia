@@ -32,9 +32,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=md-sabuj-mia&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/top-langs/?username=md-sabuj-mia&layout=compact" alt="Top Languages" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-sabuj-mia" alt="GitHub Streak" />
